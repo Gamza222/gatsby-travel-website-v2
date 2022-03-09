@@ -1,0 +1,23 @@
+.active {
+
+    .navMenu {
+    top: -100px !important;
+    background: linear-gradient(
+        180deg,
+        rgba(0, 0, 0, 0.9) 0%,
+        rgba(0, 0, 0, 0.8) 55%,
+        rgba(0, 0, 0, 0.7) 100%
+    );
+
+    @media screen and (max-width: 348px){
+        top: -185px !important;
+    }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .nav-link {
+        padding: 3rem !important;
+        font-size: 1.8rem !important;
+     }
+}

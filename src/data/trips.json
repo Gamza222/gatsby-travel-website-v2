@@ -1,0 +1,27 @@
+[
+    {
+        "img": "../assets/travel-images/travel-1.jpg",
+        "alt": "Sands",
+        "name": "Sands",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/travel-images/travel-2.jpg",
+        "alt": "River In Mountains",
+        "name": "River",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/travel-images/travel-3.jpg",
+        "alt": "Tower",
+        "name": "Tower",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/travel-images/travel-4.jpg",
+        "alt": "Lost Place",
+        "name": "Lost Place",
+        "button": "View Destination"
+    }
+
+]

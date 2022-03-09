@@ -1,0 +1,62 @@
+.stats-container {
+    width: 100%;
+    background: #fff;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 3rem calc((100vw - 1600px) / 2);
+
+    @media screen and (max-width: 760px) {
+        padding-top: 2.5rem;
+    }
+
+    .stats-heading {
+        text-align: start;
+        font-size: clamp(1.8rem, 4.6vw, 2.6rem);
+        margin-bottom: 5rem;
+        padding: 0 2rem;
+
+        @media screen and (max-width: 760px) {
+            margin-bottom: 2rem;
+        }
+    }
+
+    .stats-wrap {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 10px;
+
+        @media screen and (max-width: 860px) {
+            grid-template-columns: 1fr 1fr;
+        }
+
+        @media screen and (max-width: 500px) {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    .stats-box {
+        height: 100%;
+        width: 100%;
+        padding: 2rem;
+
+        @media screen and (max-width: 700px) {
+            padding: 1.4rem 2rem;
+        }
+
+        .stats-icon{
+            font-size: clamp(2.5rem, 5vw, 3.4rem);
+            margin-bottom: 1rem;
+        }
+
+        h3 {
+            font-size: clamp(1.2rem, 2.5vw, 1.7rem);
+            margin-bottom: 0.5rem;
+        }
+
+        p {
+
+        }
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "img": "../assets/testimonial-images/person-1.jpg",
+        "name": "Alex Denvers",
+        "text": "Have already booked several flights and hotels with the platform. Booking process was always good and once I needed customer support the service was extraordinary.",
+        "alt": "person-1 image"
+    }, 
+    {
+        "img": "../assets/testimonial-images/person-2.jpg",
+        "name": "Mishel Smith",
+        "text": "We were a group of 10 ... we loved our Fiordland experience! The Takahe trip gave us a taste of Fiordland and we are keen to return! Our guides were very knowledgeable and a whole lot of fun to be around.",
+        "alt": "person-2 image"
+    }
+]
