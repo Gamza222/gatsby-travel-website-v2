@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_travel_website_v2=self.webpackChunkgatsby_travel_website_v2||[]).push([[609],{9295:function(t,e,s){s.d(e,{opg:function(){return n}});var a=s(1046);function n(t){return(0,a.w_)({tag:"svg",attr:{version:"1.1",viewBox:"0 0 16 16"},child:[{tag:"path",attr:{d:"M8 0c-2.761 0-5 2.239-5 5 0 5 5 11 5 11s5-6 5-11c0-2.761-2.239-5-5-5zM8 8c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"}}]})(t)}}}]);
+//# sourceMappingURL=31664189-0942f535d8b8d5936eba.js.map

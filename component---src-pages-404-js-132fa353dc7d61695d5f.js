@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_travel_website_v2=self.webpackChunkgatsby_travel_website_v2||[]).push([[883],{429:function(e,t,n){n.r(t);var l=n(7294),a=n(1597);t.default=function(){return l.createElement("main",null,l.createElement("title",null,"Not found"),l.createElement("h1",null,"Here could be some content"),l.createElement(a.Link,{to:"/"},"Go home"),".")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-132fa353dc7d61695d5f.js.map
